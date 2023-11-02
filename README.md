@@ -109,3 +109,6 @@ void PrintArray(string[] array)
 
 ![programm_result](programm_result.png)
 
+5. Скрин коммитов
+
+![Commits](Commits.png)
