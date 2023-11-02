@@ -30,4 +30,6 @@
 
 ![Block_diagram](Block_diagram.drawio.png)
 
+3. Вы просматриваете оформленный файл `README.md`
+
 
